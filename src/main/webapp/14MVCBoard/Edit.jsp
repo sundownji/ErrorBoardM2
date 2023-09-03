@@ -17,7 +17,7 @@
             alert("작성자를 입력하세요.");
             form.name.focus();
             return false;
-        }
+        } 
         if (form.title.value == "") {
             alert("제목을 입력하세요.");
             form.title.focus();
